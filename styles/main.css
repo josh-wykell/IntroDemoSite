@@ -1,0 +1,38 @@
+body {
+  background: #d471ea;
+  color: #fff;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Baloo Bhaijaan', cursive;
+  color: #2fff0a;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #f3ff0f;
+  text-decoration: none;
+}
+
+.navLinks li {
+    display: inline-block;
+    width: 200px;
+}
+
+.ExtraDiv {
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+}
+
+#salmonItem {
+
+}
